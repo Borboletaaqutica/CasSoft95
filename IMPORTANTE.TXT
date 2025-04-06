@@ -1,0 +1,11 @@
+🖥️ CassSoft 95™ - Aviso Importante 🖱️
+
+📁 O Modo Macetador™ usa save local. Assim que você abrir o jogo, um arquivo vai ser criado automaticamente na pasta do app.
+🛑 Não delete esse arquivo, a menos que queira apagar todo o progresso e começar do zero.
+
+🌙 O Modo Escuro ainda tá em fase experimental, e ele pode bugar o jogo da cobrinha, mas funciona no Macetador™.
+👉 Então, se for usar o modo escuro, use só pra jogar o Macetador™
+
+🔧 Vou corrigir esses bugs no futuro, paciência! ❤️
+
+ ~ Cass, direto do laboratório CassSoft 95™
