@@ -1,1 +1,4 @@
-You can just download the RAW exe file if you want to play it!
+Feel free to edit any of it, and send me on discord!
+
+o.cass
+
