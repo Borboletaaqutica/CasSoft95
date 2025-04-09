@@ -30,7 +30,7 @@ modo_escuro_ativo = False
 # SPLASH SCREEN
 def splash_screen():
     splash = tk.Tk()
-    splash.title("Iniciando Sistema")
+    splash.title("Iniciando...")
     splash.geometry("400x300")  # Tamanho fixo da splash screen
     splash.configure(bg="#000000")
     splash.overrideredirect(1)  # Remove os botões de controle da janela
@@ -47,7 +47,7 @@ def splash_screen():
 
     subtitulo = tk.Label(
         splash,
-        text="Feito por um adolescente solitário",
+        text="1.1.0 - CassSoft 95™",
         bg="#000000",
         fg="#AAAAAA",
         font=("MS Sans Serif", 12, "italic")
